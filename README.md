@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dgaribayGHCrucialsoft
-- 👀 I’m interested in ... desarrollo de software, aprender a desarrollar en Odoo, aprender a desarrollar en Java, NodeJs,  
+- 👀 I’m interested in ... desarrollo de software, aprender a desarrollar en Odoo, aprender a desarrollar en Java, NodeJs, Python,  
 - 🌱 I’m currently learning ... Odoo
 - 💞️ I’m looking to collaborate on ... Odoo
 - 📫 How to reach me ...
